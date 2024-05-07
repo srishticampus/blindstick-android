@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "222962133653",
+    "firebase_url": "https://blindstickuit-default-rtdb.firebaseio.com",
+    "project_id": "blindstickuit",
+    "storage_bucket": "blindstickuit.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222962133653:android:6f7ca408599e3a5017099c",
+        "android_client_info": {
+          "package_name": "com.example.blindstick"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTgs1wSKVIRrKebjMklSgceoRkUOUNZQU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
